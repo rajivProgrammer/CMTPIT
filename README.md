@@ -1,2 +1,2 @@
 # CMTPIT
-A program designed to take the appropriate input necessary for processing a payment from a taxi driver/passenger.
+ A program designed to prompt an agent for the appropriate details necessary for taking a payment ticket over the phone from a taxi driver/passenger.
